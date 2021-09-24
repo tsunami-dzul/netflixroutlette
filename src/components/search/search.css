@@ -1,0 +1,30 @@
+.search {
+    width: 100%;
+}
+
+.search__title {
+    color: #fff;
+    font-size: 4rem;
+    font-weight: 100;
+    margin-bottom: 3.8rem;
+    text-transform: uppercase;
+}
+
+.search__form {
+    width: 100%;
+}
+
+.search__form::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.search__input {
+    float: left;
+    margin-right: 1rem;
+}
+
+.search__buttons {
+    float: left;
+}

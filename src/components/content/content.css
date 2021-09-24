@@ -1,0 +1,26 @@
+.content {
+    margin: 0 auto;
+    margin-top: 1rem;
+    padding-bottom: 2.5rem;
+    width: 95%;
+    height: auto;
+    background-color: #232323;
+}
+
+.content__movie-total {    
+    margin: 0 auto;
+    margin-top: 2.2rem;
+    width: 90%;
+    height: 5rem;
+    font-size: 2rem;
+    color: #c2c2c2;
+}
+
+.content__movie-total-bold {
+    font-weight: bold;
+}
+
+.content__movie-list {
+    width: 90%;
+    margin: 0 auto;
+}

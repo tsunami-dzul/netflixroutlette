@@ -1,0 +1,19 @@
+.footer {
+    width: 95%;
+    height: 9vh;
+    margin: 0 auto;
+    margin-bottom: 4rem;
+    background-color: #424242;
+}
+
+.footer__title {
+    width:100%;
+    color: #F65261;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 1.8rem;
+}
+
+.footer__title-bold {
+    font-weight: bold;
+}

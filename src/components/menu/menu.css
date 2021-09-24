@@ -1,0 +1,46 @@
+.menu__options {
+    width: 90%;
+    margin: 0 auto;
+    height: 6rem;
+
+    border-bottom: .2rem solid #3f3f3f;
+    box-shadow: 0 .4rem .4rem -.3rem #000000;
+}
+
+.menu__filter {
+    float: left;
+    margin: 2rem 0;
+    width: 50%;
+}
+
+.menu__sort {
+    float: right;
+    text-align: right;
+    margin: 2rem 0;
+    width: 20%;
+}
+
+.navigation {
+    list-style: none;
+}
+
+.navigation li {    
+    display: inline-block;
+    margin-left: 3rem;
+}
+
+.navigation li:first-child {
+    margin: 0;    
+}
+
+.navigation li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.6rem;
+    color: #c2c2c2;
+    padding-bottom: 2rem;    
+}
+
+.navigation li a:hover {
+    border-bottom: .35rem solid #F65261;
+}
